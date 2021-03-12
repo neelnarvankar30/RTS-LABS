@@ -1,0 +1,5 @@
+#3 If you could change 1 thing about your favorite framework/language/platform (pick one), what would it be?
+
+I would probably want to change lambda functions in Pyhton I would want to change the way they are written, 
+although they make coding simpler at times they get confusing because of the way they are written. 
+Also changing self to this when using classes. 
