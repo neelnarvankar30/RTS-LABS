@@ -10,7 +10,7 @@ def printNums(arr, num):
             low += 1
         elif i > num:
             high += 1
-    print ("above:", high,"below:", low)
+    print("above:", high,"below:", low)
        
 arr = [1, 5, 2, 1, 10]
 num = 6
